@@ -3,6 +3,7 @@
   'shift-f12': 'typescript:find-references'
   'f6': 'typescript:build'
   'f12': 'typescript:go-to-declaration'
+  'ctrl-shift-o': 'typescript:organize-imports'
 
 'atom-workspace':
   'f10': 'typescript:return-from-declaration'

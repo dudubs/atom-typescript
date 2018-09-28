@@ -12,6 +12,7 @@ require("./findReferences");
 require("./goToDeclaration");
 require("./returnFromDeclaration");
 require("./renameRefactor");
+require("./organizeImportsRefactor");
 require("./showTooltip");
 require("./initializeConfig");
 require("./semanticView");

@@ -1,4 +1,4 @@
-import {addCommand} from "./registry"
+import { addCommand } from "./registry";
 
 addCommand("atom-text-editor", "typescript:organize-imports", deps => ({
   description: "Organize module imports",
